@@ -1,1 +1,1 @@
-# example
+# Example file for python students
